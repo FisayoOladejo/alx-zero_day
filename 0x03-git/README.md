@@ -1,1 +1,1 @@
-My second README.md
+Collaboration is a key to success
